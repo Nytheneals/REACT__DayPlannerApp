@@ -1,4 +1,4 @@
-# REACT\_\_TodoApp
+# REACT\_\_Day Planner App
 
 A TodoApp Built with React
 
