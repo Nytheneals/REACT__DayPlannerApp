@@ -6,10 +6,8 @@
   "repository": "https://github.com/Nytheneals/REACT__TodoApp.git",
   "scripts": {
     "start": "npm run build",
-    "build":
-      "webpack -d && webpack-dev-server --content-base src/ --inline --hot --port 8090",
-    "test":
-      "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
+    "build": "webpack -d && webpack-dev-server --content-base src/ --inline --hot --port 8090",
+    "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
   "author": "Nytheneals",
