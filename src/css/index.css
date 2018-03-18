@@ -1,7 +1,8 @@
 body {
   background: #eee;
   margin: 20px;
-  font-family: tahoma;
+  font-family: "KievitOT";
+  font-size: 20px;
 }
 
 #todo-wrapper {
@@ -17,7 +18,9 @@ body {
 
 #todo-wrapper p {
   color: #777;
-  font-style: italic;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
 }
 
 #todo-list ul {
